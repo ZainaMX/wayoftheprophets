@@ -1,34 +1,9 @@
 ## Daily Zikr
 
 #Pray 5-25 Prayers a day [Remember 50 Prayers was the first command]
+Tahjjaud[2]*13, Witr [3], Fajr [2,2], Duha[4], Zuhr [4,4,2], Asr[4], Maghrib [3,2] Isha [4,2]
 
-Standing: Allahumma atini afdala ma tu'ti ibadaka-s-salihin | Allah grant me the best you grant your pious slaves
-
-1.Tahajjud First
-2.Tahajjud Second
-3.Tahajjud Third
-4.Tahajjud Fourth
-5.Tahajjud Fifth
-6.Tahajjud Fifth
-7.Tahajjud Fifth
-8.Tahajjud Fifth
-9.Tahajjud Fifth
-10.Tahajjud Fifth
-11.Tahajjud Fifth
-12.Tahajjud Fifth
-13.Tahajjud Fifth
-14.Witr
-15.Sunnah Fajr
-16.Fajr
-17.Duha
-18.Sunnah Zuhr
-19.Zuhr
-20.Sunnah Zuhr
-21.Asr
-22.Maghrib
-23.Sunnah Maghrib
-24.Isha
-25.Sunnah Isha
+Standing: Allahumma atini afdala ma tu'ti ibadaka-s-salihin | Allah grant me the best you grant your pious
 
 
 **- 5 Salawat after each prayer == 150 a day
@@ -97,28 +72,5 @@ Mashallah la quwatta illa bi Allah - everything you see
 
 Mishaps:
 Inna li lillahi wa inna ilayhi rajioon. Allahumma ajirni fi musibati wa akhlif li khairan minha.
-Verily we belong to Allah and truly to Him shall we return. O Allah! Protect me in this calamity that has befallen me and replace it with something better
+Verily we belong to Allah and truly to Him shall we return. O Allah! Protect me in this calamity and give me better than it.
 
-Istighfar
-
-### Friday
-Waking: Astaghfiru-llaha-llahdi la ilaha illa huwa-l-hayyu-l-qayyumu wa atubu ilayh.
-Fajr: Surah Sajdah
-Surah Kahf
-Last Hour: 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src) 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZainaMX/wayoftheprophets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
